@@ -17,7 +17,7 @@ Events Hub kenya is a web app where one may add his or her event and also view o
     Coptright and license information.  
 
  ##### Description
-  Events HUb kenya is a web app where one may add his or her event and also view other events that are happening in the country.
+  Events Hub kenya is a web app where one may add his or her event and also view other events that are happening in the country.
  The user does not need to pay to use the app, it is free only Sign up and you are good to go.
 ##### Hosting platform
  Our front end is hosted on vercel and our backend is hosted on railway.
