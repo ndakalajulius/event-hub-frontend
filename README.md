@@ -1,5 +1,5 @@
- # About The Project
-Events HUb kenya is a web app where one may add his or her event and also view other events that are happening in the country.
+ # Event Hub Kenya
+Events Hub kenya is a web app where one may add his or her event and also view other events that are happening in the country.
  ## Built With
  * [Ruby](https://www.ruby-lang.org/en/)
  * [Sinatra](http://sinatrarb.com/)
@@ -8,10 +8,16 @@ Events HUb kenya is a web app where one may add his or her event and also view o
  * [Javascript](https://www.javascript.com/)
  * [Sqlite3](https://www.sqlite.org/index.html)
 ## Table of content
-    * [About the Project](#about-the-project)
+    About the Project
+    Description
+    Hosting platforms
+    Technology used
+    Reference
+    License
+    Coptright and license information.  
 
  ##### Description
-  Events HUb kenya is a web app where one may add his or her event and also view other events that are happening in the country.
+  Events Hub kenya is a web app where one may add his or her event and also view other events that are happening in the country.
  The user does not need to pay to use the app, it is free only Sign up and you are good to go.
 ##### Hosting platform
  Our front end is hosted on vercel and our backend is hosted on railway.
@@ -62,9 +68,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
- ### Authors Info
- #### Julius Ndakla
- #### Grace Aluoch
- #### Ian Kangancha
- #### Meshack Mbuvi
- #### Purity Mwaura
