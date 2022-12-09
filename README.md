@@ -44,7 +44,7 @@ Events Hub kenya is a web app where one may add his or her event and also view o
     * [Purity Mwaura]( Fullstack developer)
     * [Grace Aluoch](Fullstack developer)
  ## Description
-    Events HUb kenya is a web app where one may add his or her <br/> event and also view other events that are happening in the country.
+    Events HUb kenya is a web app where one may add his or her event and also view other events that are happening in the country.
  ### Requirements
   Either a computer,phone or tablet
   An access to the internet
